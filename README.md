@@ -138,7 +138,7 @@ Key activities included:
 
 ### Hull Structure
 
-![Hull Structure](06_Gallery/hull-structure.jpg)
+![Hull Structure](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/CONSTRUCT%2012.PNG?raw=true)
 
 ### Outfitting
 
