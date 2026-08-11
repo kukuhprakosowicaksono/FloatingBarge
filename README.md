@@ -142,7 +142,7 @@ Key activities included:
 
 ### Outfitting
 
-![Outfitting](06_Gallery/outfitting.jpg)
+![Outfitting](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/skeg.PNG?raw=true)
 
 ### Fabrication
 
