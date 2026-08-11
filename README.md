@@ -148,9 +148,9 @@ Key activities included:
 
 ![Fabrication](06_Gallery/fabrication.jpg)
 
-### Project View
+### General
 
-![Floating Barge](06_Gallery/floating-barge.jpg)
+![Floating Barge](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/GA1.PNG?raw=true)
 
 ---
 
