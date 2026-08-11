@@ -146,7 +146,7 @@ Key activities included:
 
 ### Fabrication
 
-![Fabrication](06_Gallery/fabrication.jpg)
+![Fabrication](https://github.com/kukuhprakosowicaksono/FloatingBarge/blob/My-Project/View%20Fabrication/06.jpg?raw=true)
 
 ### General
 
