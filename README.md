@@ -184,4 +184,4 @@ Confidential, proprietary, client-specific, and commercially sensitive informati
 
 ---
 
-⭐ *Thank you for visiting this project portfolio.*
+👉 [View All Projects on GitHub](https://github.com/kukuhprakosowicaksono?tab=repositories)
