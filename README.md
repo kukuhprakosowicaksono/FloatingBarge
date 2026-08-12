@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/3D%20Model%20Floating%20Barge_page-0001.jpg?raw=true" width="625">
+  <img src="https://github.com/kukuhprakosowicaksono/FloatingBarge/blob/My-Project/Image/001.jpg?raw=true" width="625">
 </p>
 
 ---
@@ -138,11 +138,11 @@ Key activities included:
 
 ### Hull Structure
 
-![Hull Structure](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/CONSTRUCT%2012.PNG?raw=true)
+![Hull Structure](https://github.com/kukuhprakosowicaksono/FloatingBarge/blob/My-Project/Image/002.PNG?raw=true)
 
 ### Outfitting
 
-![Outfitting](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/skeg.PNG?raw=true)
+![Outfitting](https://github.com/kukuhprakosowicaksono/FloatingBarge/blob/My-Project/Image/004.PNG?raw=true)
 
 ### Fabrication
 
@@ -150,7 +150,7 @@ Key activities included:
 
 ### General
 
-![Floating Barge](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/GA1.PNG?raw=true)
+![Floating Barge](https://github.com/kukuhprakosowicaksono/FloatingBarge/blob/My-Project/Image/003.PNG?raw=true)
 
 ---
 
